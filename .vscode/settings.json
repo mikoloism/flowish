@@ -1,0 +1,24 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true,
+		".gitignore": true,
+		"node_modules": true,
+		"package-lock.json": true,
+		"src/vite-env.d.ts": true,
+		".vscode": true,
+		"public": true,
+		"index.html": true,
+		"tsconfig.json": true
+	},
+	"explorerExclude.backup": {},
+	"cSpell.words": ["Flowish"]
+}
