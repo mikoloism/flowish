@@ -17,7 +17,10 @@
 		".vscode": true,
 		"public": true,
 		"index.html": true,
-		"tsconfig.json": true
+		"tsconfig.json": true,
+		"src/vite-default-main.ts": true,
+		"src/counter.ts": true,
+		"src/typescript.svg": true
 	},
 	"explorerExclude.backup": {},
 	"cSpell.words": ["Flowish"]
